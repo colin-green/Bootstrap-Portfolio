@@ -19,11 +19,11 @@ a {
 }
 
 .mymain {
-    position: absolute;
+    /* position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
     width: 960px;
     background-color: #ffffff;
     border: 1px solid #dddddd;
@@ -47,7 +47,7 @@ footer {
     color: #ffffff;
     text-align: center;
     padding-top: 40px;
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     width: 100%;
